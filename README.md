@@ -30,19 +30,6 @@ MongoDB Database
 - npm
 - MongoDB
 
-## Project Structure
-
-```text
-mern-app/
-├── client/
-│   ├── src/
-│   └── public/
-├── server/
-│   ├── models/
-│   ├── routes/
-│   └── controllers/
-└── package.json
-```
 
 ## Installation
 
@@ -128,7 +115,3 @@ module.exports = router;
 - Node.js Documentation
 - Express.js Documentation
 - MongoDB Documentation
-
-## License
-
-MIT License
